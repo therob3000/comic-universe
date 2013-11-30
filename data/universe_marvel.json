@@ -1,0 +1,2855 @@
+[
+	{
+		"name": "Professor X",
+		"real_name": "Professor Charles Francis Xavier",
+		"photo": "professorx.jpg",
+		"birth_place": "New York City, NY",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "Deceased",
+		"bio": "World's most powerful telepath, capable of astral projection, mind control, illusion casting, memory manipulation, psychic blasts, and sensing the presence of nearby mutants.",
+		"first_appearance": 1968,
+		"team_affiliations": [
+			"X-Men",
+			"Illuminati",
+			"Genoshan Excalibur",
+			"Cadre K",
+			"Brotherhood of Mutants",
+			"Shi'ar Imperium",
+			"Starjammers",
+			"The Twelve",
+			"Defenders"
+		],
+		"abilities": [
+			"Genius-level intellect",
+			"Telepathy",
+			"Empathy",
+			"Mind reading and control",
+			"Memory alteration & erasure",
+			"Mental bolts",
+			"Psionic blasts",
+			"Induced paralysis",
+			"Illusion casting",
+			"Great tactician and strategist",
+			"Astral projection",
+			"Eidetic memory"
+		],
+		"power_grid": [
+			{
+				"intelligence": 7,
+				"strength": 4,
+				"speed": 2,
+				"durability": 4,
+				"energy_projection": 7,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "167,123,86,1",
+				"cmyk": "31,50,71,10",
+				"hsb": "27,49,65",
+				"hex": "#a77b56"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Cyclops",
+		"real_name": "Scott Summers",
+		"photo": "cyclops.jpg",
+		"birth_place": "Anchorage, Alaska",
+		"lat": 61.218056,
+		"lng": -149.900278,
+		"status": "",
+		"bio": "Projects a beam of ruby-colored concussive force from his eyes, which act as interdimensional apertures between this universe and another.",
+		"first_appearance": 1968,
+		"team_affiliations": [
+			"Xavier's School for Gifted Youngsters",
+			"X-Men",
+			"X-Force",
+			"X-Factor",
+			"X-Terminators",
+			"The Twelve",
+			"Phoenix Five"
+		],
+		"abilities": [
+			"Optic force blasts",
+			"Spatial awareness",
+			"Gifted strategist, hand-to-hand combatant, and pilot",
+			"Immunity to Havok's plasma energy blasts"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 4,
+				"speed": 4,
+				"durability": 4,
+				"energy_projection": 7,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "245,198,50,1",
+				"cmyk": "4,32,91,0",
+				"hsb": "46,80,96",
+				"hex": "#f5c632"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Iceman",
+		"real_name": "Robert 'Bobby' Drake",
+		"photo": "iceman.jpg",
+		"birth_place": "Port Washington, Long Island, New York",
+		"lat": 40.825656,
+		"lng": -73.698186,
+		"status": "",
+		"bio": "Generates freezing temperatures to create and manipulate ice. Can transform his body into ice.",
+		"first_appearance": 1968,
+		"team_affiliations": [
+			"X-Men",
+			"X-Factor",
+			"Defenders",
+			"Champions",
+			"X-Terminators",
+			"The Twelve",
+			"Cataclysm Keys",
+			"Secret Defenders",
+			"Jean Grey School"
+		],
+		"abilities": [
+			"Thermokinesis",
+			"Cryokinesis",
+			"Hydrokinesis",
+			"Molecular moisture inversion and conversion",
+			"Thermal vision",
+			"Augmented strength and durability (Ice form)"
+		],
+		"power_grid": [
+			{
+				"intelligence": 2,
+				"strength": 3,
+				"speed": 4,
+				"durability": 4,
+				"energy_projection": 5,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "98,174,206,1",
+				"cmyk": "60,16,1,0",
+				"hsb": "198,52,81",
+				"hex": "#62aece"
+			},
+			{
+				"rgba": "227,245,255,1",
+				"cmyk": "9,0,0,0",
+				"hsb": "201,11,100",
+				"hex": "#e3f5ff"
+			}
+		]
+	},
+	{
+		"name": "Angel/Archangel",
+		"real_name": "Warren Kenneth Worthington III",
+		"photo": "angel.jpg",
+		"birth_place": "Centerport, New York",
+		"lat": 40.899196, 
+		"lng": -73.367839,
+		"status": "",
+		"bio": "Makes use of the large, feathered wings on his back for natural flight. Also has eagle-like vision and blood with regenerative properties. Can transform into a blue-skinned form with metallic, techno-organic wings, sharp metallic claws, and enhanced physical abilities.",
+		"first_appearance": 1969,
+		"team_affiliations": [
+			"X-Men",
+			"X-Force",
+			"X-Factor",
+			"Renegades",
+			"Defenders/Secret Defenders",
+			"Hellfire Club",
+			"Horsemen of Apocalypse",
+			"X-Terminators",
+			"Jean Grey School"
+		],
+		"abilities": [
+			"Flight",
+			"Enhanced strength",
+			"Aerial adaptation",
+			"Peak physical attributes"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 3,
+				"speed": 3,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "114,182,243,1",
+				"cmyk": "50,17,0,0",
+				"hsb": "208,53,95",
+				"hex": "#72b6f3"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Beast",
+		"real_name": "Dr. Henry Philip 'Hank' McCoy",
+		"photo": "beast.jpg",
+		"birth_place": "Dundee, Illinois",
+		"lat": 42.108914,
+		"lng": -88.297581,
+		"status": "",
+		"bio": "Has superhuman strength, speed, stamina, agility, reflexes, and durability. His feline-like form gives him night vision, minor pheromone control, enhanced senses and claws.",
+		"first_appearance": 1969,
+		"team_affiliations": [
+			"X-Men",
+			"Xavier Institute For Higher Learning",
+			"Avengers",
+			"Defenders",
+			"X-Factor",
+			"X-Terminators",
+			"Secret Avengers",
+			"Jean Grey School"
+		],
+		"abilities": [
+			"Animal-like physiology",
+			"Superhuman strength, speed, stamina, agility, durability, senses, and dexterity",
+			"Genius-level intellect",
+			"High pain tolerance",
+			"Pheromone manipulation",
+			"Razor sharp claws and teeth"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 4,
+				"speed": 3,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "98,174,206,1",
+				"cmyk": "60,16,1,0",
+				"hsb": "198,52,81",
+				"hex": "#62aece"
+			},
+			{
+				"rgba": "245,198,50,1",
+				"cmyk": "4,32,91,0",
+				"hsb": "46,80,96",
+				"hex": "#f5c632"
+			}
+		]
+	},
+	{
+		"name": "Marvel Girl/Phoenix",
+		"real_name": "Jean Grey-Summers",
+		"photo": "pheonix.jpg",
+		"birth_place": "New York City, New York",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Possesses telekinesis and telepathy. As the template of the Phoenix Force, she is able to generate unlimited amounts of energy, travel through time-space, and manipulate matter on a subatomic level.",
+		"first_appearance": 1963,
+		"team_affiliations": [
+			"Phoenix Corps",
+			"The Twelve",
+			"X-Factor",
+			"X-Men",
+			"X-Terminators"
+		],
+		"abilities": [
+			"Empathy",
+			"Telepathy",
+			"Telekinesis",
+			"Eidetic memory"
+		],
+		"power_grid": [
+			{
+				"intelligence": 7,
+				"strength": 6,
+				"speed": 7,
+				"durability": 7,
+				"energy_projection": 7,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "224,127,50,1",
+				"cmyk": "9,59,93,0",
+				"hsb": "27,78,88",
+				"hex": "#e07f32"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Mimic",
+		"real_name": "Calvin Montgomery Rankin",
+		"photo": "mimic.jpg",
+		"birth_place": "Passaic, New Jersey",
+		"lat": 40.856766,
+		"lng": -74.128476,
+		"status": "",
+		"bio": "Copies other mutants' powers and abilities, sometimes permanently. Retains the original five X-Men's powers indefinitely.",
+		"first_appearance": 1966,
+		"team_affiliations": [
+			"X-Men",
+			"Brotherhood of Mutants",
+			"Dark X-Men",
+			"Jean Grey School"
+		],
+		"abilities": [
+			"Power Mimicry"
+		],
+		"power_grid": [
+			{
+				"intelligence": 2,
+				"strength": 4,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 4,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "90,137,185,1",
+				"cmyk": "68,39,0,0",
+				"hsb": "210,51,73",
+				"hex": "#5a89b9"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Changeling",
+		"real_name": "Kevin Sydney",
+		"photo": "placeholder.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "Deceased",
+		"bio": "Shapeshifter able to assume other humanoid forms; a latent telepath.",
+		"first_appearance": 1968,
+		"team_affiliations": [
+			"X-Men",
+			"Factor Three",
+			"X-Humed",
+			"Exiles"
+		],
+		"abilities": [
+			"Shapeshifting",
+			"Telepathy",
+			"Levitation",
+			"Skilled actor",
+			"Highly trained and efficient organizer",
+			"Good prankster",
+			"Expert computer engineer"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 3,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 4,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Polaris",
+		"real_name": "Lorna Dane",
+		"photo": "polaris.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Generates magnetic fields to manipulate metal, induce flight, create force fields, and harness energy blasts.",
+		"first_appearance": 1969,
+		"team_affiliations": [
+			"X-Men",
+			"X-Factor",
+			"Defenders for a Day",
+			"The Twelve",
+			"Acolytes",
+			"Horsemen of Apocalypse",
+			"Starjammers",
+			"X-Factor Investigations"
+		],
+		"abilities": [
+			""
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 6,
+				"speed": 5,
+				"durability": 5,
+				"energy_projection": 7,
+				"fighting_skills": 7
+			}
+		],
+		"colors": [
+			{
+				"rgba": "77,185,74,1",
+				"cmyk": "70,0,100,0",
+				"hsb": "118,60,73",
+				"hex": "#4db94a"
+			},
+			{
+				"rgba": "195,222,129,1",
+				"cmyk": "26,0,64,0",
+				"hsb": "77,42,87",
+				"hex": "#c3de81"
+			}
+		]
+	},
+	{
+		"name": "Havok",
+		"real_name": "Alexander Summers",
+		"photo": "havok.jpg",
+		"birth_place": "Honolulu, Hawaii",
+		"lat": 21.306944,
+		"lng": -157.858333,
+		"status": "",
+		"bio": "Generates plasma blasts and absorbs cosmic energy.",
+		"first_appearance": 1970,
+		"team_affiliations": [
+			"X-Men",
+			"Avengers Unity Squad",
+			"X-Factor Investigations",
+			"Starjammers",
+			"The Six",
+			"X-Factor",
+			"Brotherhood of Mutants",
+			"Genoshan Magistrates",
+			"Defenders for a Day"
+		],
+		"abilities": [
+			"Ability to absorb cosmic energy",
+			"Energy blasts",
+			"Immunity to Cyclops' optic blasts"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 2,
+				"speed": 2,
+				"durability": 3,
+				"energy_projection": 6,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Petra",
+		"real_name": "",
+		"photo": "placeholder.jpg",
+		"birth_place": "New York City, NY",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "Deceased",
+		"bio": "Earth manipulation; can also change the composition of raw minerals.",
+		"first_appearance": 2006,
+		"team_affiliations": [
+			"X-Men"
+		],
+		"abilities": [
+			"Earth manipulation"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 4,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 5,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Sway",
+		"real_name": "Suzanne Chan",
+		"photo": "placeholder.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "Deceased",
+		"bio": "Time control, as well as a form of retrocognitive projection.",
+		"first_appearance": 2006,
+		"team_affiliations": [
+			"X-Men"
+		],
+		"abilities": [
+			"Time manipulation",
+			"Psychometric/Retrocognitive",
+			"Projection"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 3,
+				"speed": 3,
+				"durability": 4,
+				"energy_projection": 5,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Darwin",
+		"real_name": "Armando Muñoz",
+		"photo": "placeholder.jpg",
+		"birth_place": "New York City, New York",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Constant reactive evolution.",
+		"first_appearance": 2006,
+		"team_affiliations": [
+			"X-Men",
+			"X-Factor Investigations"
+		],
+		"abilities": [
+			"Reactive Evolution"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 5,
+				"speed": 5,
+				"durability": 5,
+				"energy_projection": 5,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Vulcan",
+		"real_name": "Gabriel Summers",
+		"photo": "vulcan.jpg",
+		"birth_place": "Shi'ar",
+		"lat": 0,
+		"lng": 0,
+		"status": "Deceased",
+		"bio": "Capable of manipulating different types of energy on a vast scale, including mutant energies. Can survive in the vacuum of space and can fly.",
+		"first_appearance": 2006,
+		"team_affiliations": [
+			"X-Men"
+		],
+		"abilities": [
+			"Vast energy absorption, manipulation, transformation and projection",
+			"Flight",
+			"Force field projection and manipulation",
+			"Life support and limited regeneration",
+			"Variable energy blasts",
+			"Limited super power replication and repression",
+			"Energy siphon and disruption",
+			"Psionic resistance"
+		],
+		"power_grid": [
+			{
+				"intelligence": 2,
+				"strength": 3,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 7,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Nightcrawler",
+		"real_name": "Kurt Wagner",
+		"photo": "nightcrawler.jpg",
+		"birth_place": "Bavaria, Germany",
+		"lat": 48.790447,
+		"lng": 11.497889,
+		"status": "Deceased",
+		"bio": "Neomorphic physiology grants him a prehensile tail, blue fur, invisibility in shadows, night vision, and wall-crawling. Possesses line-of-sight teleportation.",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"X-Men",
+			"Excalibur"
+		],
+		"abilities": [
+			"Teleportation",
+			"Enhanced night vision",
+			"Superhuman agility",
+			"Prehensile tail",
+			"Ability to stick to walls",
+			"Blending into shadows",
+			"Skilled in martial arts, hand to hand combat and fencing training"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 4,
+				"speed": 7,
+				"durability": 5,
+				"energy_projection": 7,
+				"fighting_skills": 7
+			}
+		],
+		"colors": [
+			{
+				"rgba": "101,147,183,1",
+				"cmyk": "63,34,15,0",
+				"hsb": "206,45,72",
+				"hex": "#6593b7"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Wolverine",
+		"real_name": "James 'Logan' Howlett",
+		"photo": "wolverine.jpg",
+		"birth_place": "Alberta, Canada",
+		"lat": 53.933271,
+		"lng": -116.576504,
+		"status": "",
+		"bio": "Healing factor (regeneration of tissue, immunity to virtually all toxins and pathogens, slowed aging process), enhanced senses, and retractable bone claws. Has the indestructible metal adamantium bonded to his skeleton, allowing enhanced physical attributes and sharp adamantium claws.",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"X-Men",
+			"Avengers",
+			"Horsemen of Apocalypse",
+			"Jean Grey School",
+			"New Avengers",
+			"New Fantastic Four",
+			"S.H.I.E.L.D.",
+			"X-Force",
+			"X-Treme Sanctions Executive"
+		],
+		"abilities": [
+			"Regenerative healing factor",
+			"Superhuman senses, strength, agility, stamina, reflexes, and longevity",
+			"Adamantium-laced skeletal structure",
+			"Six retractable adamantium-laced bone claws (three claws on each hand)",
+			"Elongated and sharpened canines",
+			"Master martial artist and tactician",
+			"Experienced spy",
+			"Expert marksman and swordsman"
+		],
+		"power_grid": [
+			{
+				"intelligence": 2,
+				"strength": 4,
+				"speed": 3,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Banshee",
+		"real_name": "Sean Cassidy",
+		"photo": "banshee.jpg",
+		"birth_place": "County Mayo, Ireland",
+		"lat": 54.015260,
+		"lng": -9.428937,
+		"status": "",
+		"bio": "Sonic scream, flight, enhanced hearing.",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"X-Men",
+			"Interpol",
+			"NYPD",
+			"Factor Three",
+			"Generation X",
+			"X-Corps"
+		],
+		"abilities": [
+			"Superhuman hearing",
+			"Sonic screams",
+			"Flight",
+			"Concussive blasts",
+			"Sonic energy lances",
+			"Ability to cause nausea, disorientation, or unconsciousness",
+			"Immunity to powers of Black Tom Cassidy"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 2,
+				"speed": 4,
+				"durability": 3,
+				"energy_projection": 7,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "93,113,49,1",
+				"cmyk": "58,33,92,14",
+				"hsb": "79,57,44",
+				"hex": "#5d7131"
+			},
+			{
+				"rgba": "230,186,65,1",
+				"cmyk": "7,22,80,0",
+				"hsb": "44,72,90",
+				"hex": "#e6ba41"
+			}
+		]
+	},
+	{
+		"name": "Storm",
+		"real_name": "Ororo Monroe",
+		"photo": "storm.jpg",
+		"birth_place": "New York City, NY",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Weather manipulation (lighting bolts, wind, rain, etc.) and flight by 'riding' wind currents.",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"X-Men",
+			"Avengers",
+			"Fantastic Four",
+			"Lady Liberators",
+			"X-Treme X-Men",
+			"The Twelve",
+			"Morlocks",
+			"Hellfire Club",
+			"X-Treme Sanctions Executive"
+		],
+		"abilities": [
+			"Weather manipulation",
+			"Flight",
+			"Energy perception",
+			"Ecological empathy",
+			"Resistance to the effects of the weather and extreme temperatures",
+			"Latent natural magic abilities",
+			"Resistance to telepathy"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 2,
+				"speed": 5,
+				"durability": 3,
+				"energy_projection": 6,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Sunfire",
+		"real_name": "Shiro Yoshida",
+		"photo": "sunfire.jpg",
+		"birth_place": "Agarashima, Japan",
+		"lat": 32.466667,
+		"lng": 139.766667,
+		"status": "",
+		"bio": "Generation of nuclear fire, flight by jet propulsion, absorption of and immunity to various kinds of radiation.",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"X-Men",
+			"Avengers Unity Squad",
+			"Horsemen of Apocalypse",
+			"Death's Champions",
+			"Pacific Overlords",
+			"X-Corporation Mumbai",
+			"The Twelve",
+			"Big Hero 6",
+			"Marauders"
+		],
+		"abilities": [
+			"Flight",
+			"Plasma blasts",
+			"Ability to view infrared",
+			"Radiation immunity"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 4,
+				"speed": 6,
+				"durability": 4,
+				"energy_projection": 7,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "254,237,61,1",
+				"cmyk": "3,1,87,0",
+				"hsb": "55,76,99",
+				"hex": "#feed3d"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Colossus",
+		"real_name": "Piotr 'Peter' Rasputin",
+		"photo": "colossus.jpg",
+		"birth_place": "Siberia, Russia",
+		"lat": 61.013710,
+		"lng": 99.196656,
+		"status": "",
+		"bio": "Transforms into living organic metal form, granting superhuman strength and near-invulnerability. Can survive without oxygen or sustenance for long periods while in this form.",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"X-Men",
+			"Defenders",
+			"Excalibur",
+			"Acolytes",
+			"Phoenix Five",
+			"X-Force"
+		],
+		"abilities": [
+			"Ability to transform his body into 'organic steel granting him superhuman strength",
+			"stamina",
+			"durability"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 7,
+				"speed": 4,
+				"durability": 7,
+				"energy_projection": 5,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "161,161,161,1",
+				"cmyk": "39,32,33,1",
+				"hsb": "166,0,63",
+				"hex": "#a1a1a1"
+			},
+			{
+				"rgba": "192,7,21,1",
+				"cmyk": "17,100,100,8",
+				"hsb": "355,96,75",
+				"hex": "#c00715"
+			}
+		]
+	},
+	{
+		"name": "Thunderbird",
+		"real_name": "John Proudstar",
+		"photo": "thunderbird.jpg",
+		"birth_place": "Camp Verde, Arizona",
+		"lat": 34.563636,
+		"lng": -111.854318,
+		"status": "Deceased",
+		"bio": "Superhuman strength, speed, and durability.",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"X-Men"
+		],
+		"abilities": [
+			"Superhuman senses", 
+			"Strength", 
+			"Speed", 
+			"Stamina", 
+			"Sturdiness"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 4,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 1,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "202,59,17,1",
+				"cmyk": "15,90,100,5",
+				"hsb": "14,92,79",
+				"hex": "#ca3b11"
+			},
+			{
+				"rgba": "57,87,149,1",
+				"cmyk": "88,73,13,1",
+				"hsb": "220,62,58",
+				"hex": "#395795"
+			}
+		]
+	},
+	{
+		"name": "Shadowcat",
+		"real_name": "Katherine Anne 'Kitty' Pryde",
+		"photo": "shadowcat.jpg",
+		"birth_place": "Deerfield, Illinois",
+		"lat": 42.171137,
+		"lng": -87.844512,
+		"status": "",
+		"bio": "Can pass through solid matter ('phasing'), also allowing her to disrupt electronics and walk on air.",
+		"first_appearance": 1980,
+		"team_affiliations": [
+			"X-Men",
+			"Excalibur",
+			"S.H.I.E.L.D.",
+			"New Mutants",
+			"Gladiators",
+			"Jean Grey School"
+		],
+		"abilities": [
+			"Intangibility"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 2,
+				"speed": 2,
+				"durability": 3,
+				"energy_projection": 2,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "95,107,103,1",
+				"cmyk": "63,47,53,19",
+				"hsb": "160,11,42",
+				"hex": "#5f6b67"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Rogue",
+		"real_name": "Anna Marie 'Darkhölme'",
+		"photo": "rogue.jpg",
+		"birth_place": "Caldecott County, Mississippi",
+		"lat": 35.827973,
+		"lng": -90.074677,
+		"status": "",
+		"bio": "Absorbs powers, memories, and personalities through skin-to-skin contact. Prolonged contact with others can cause her to permanently absorb their traits and potentially kill them.",
+		"first_appearance": 1983,
+		"team_affiliations": [
+			"X-Men",
+			"XSE",
+			"Brotherhood of Mutants",
+			"Xavier Institute",
+			"Jean Grey School"
+		],
+		"abilities": [
+			"Absorption of memories skills, and powers through skin-to-skin contact",
+			"Super strength",
+			"Flight",
+			"Expert at martial arts and unarmed combat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 7,
+				"speed": 2,
+				"durability": 7,
+				"energy_projection": 4,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "230,209,144,1",
+				"cmyk": "10,14,50,0",
+				"hsb": "45,37,90",
+				"hex": "#e6d190"
+			},
+			{
+				"rgba": "55,94,75,1",
+				"cmyk": "77,42,71,32",
+				"hsb": "151,41,37",
+				"hex": "#375e4b"
+			}
+		]
+	},
+	{
+		"name": "Magneto",
+		"real_name": "Max 'Magnus' Eisenhardt",
+		"photo": "magneto.jpg",
+		"birth_place": "Germany",
+		"lat": 51.165691,
+		"lng": 10.451526,
+		"status": "",
+		"bio": "Generates and controls magnetic fields for manipulating metal, flight, force fields, electrical bolts, and electromagnetic radiation.",
+		"first_appearance": 1985,
+		"team_affiliations": [
+			"X-Men",
+			"New Mutants",
+			"The Twelve",
+			"Hellfire Club",
+			"Acolytes",
+			"Savage Land Mutates"
+		],
+		"abilities": [
+			"Magnetism manipulation",
+			"Magnetic force fields",
+			"Magnetic flight",
+			"Genius-level intellect",
+			"Skilled leader and strategist",
+			"Helmet grants immunity to telepathic attacks"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 2,
+				"speed": 4,
+				"durability": 6,
+				"energy_projection": 6,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "89,62,107,1",
+				"cmyk": "73,84,31,17",
+				"hsb": "276,42,42",
+				"hex": "#593e6b"
+			},
+			{
+				"rgba": "190,54,30,1",
+				"cmyk": "18,92,100,8",
+				"hsb": "9,84,75",
+				"hex": "#be361e"
+			}
+		]
+	},
+	{
+		"name": "Bishop",
+		"real_name": "Lucas Bishop",
+		"photo": "bishop.jpg",
+		"birth_place": "Brooklyn, New York",
+		"lat": 40.650000,
+		"lng": -73.95,
+		"status": "",
+		"bio": "Can absorb most forms of energy and channel it into blasts or convert it into enhanced strength. Has a bionic arm with enhanced strength, retractable pincers, and time-traveling capabilities.",
+		"first_appearance": 1992,
+		"team_affiliations": [
+			"X-Men",
+			"O*N*E",
+			"Xavier's Security Enforcers",
+			"Interpol",
+			"The Twelve",
+			"X-Treme Sanctions Executive",
+			"NYPD",
+			"X-Treme X-Men"
+		],
+		"abilities": [
+			"Energy absorption and redirection",
+			"Superhuman physical attributes",
+			"Ability to instinctively know present location"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 3,
+				"speed": 2,
+				"durability": 4,
+				"energy_projection": 7,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "219,173,88,1",
+				"cmyk": "14,31,77,0",
+				"hsb": "39,60,86",
+				"hex": "#dbad58"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Gambit",
+		"real_name": "Rémy LeBeau",
+		"photo": "gambit.jpg",
+		"birth_place": "New Orleans, Louisiana",
+		"lat": 29.951066,
+		"lng": -90.071532,
+		"status": "",
+		"bio": "Charges inanimate objects with explosive kinetic energy; enhanced agility and hypnotic charm.",
+		"first_appearance": 1990,
+		"team_affiliations": [
+			"X-Men",
+			"Marauders",
+			"Horsemen of Apocalypse",
+			"XSE",
+			"Thieves' Guild",
+			"Crimson Pirates",
+			"Jean Grey School"
+		],
+		"abilities": [
+			"Control and manipulation of potential energy and kinetic energy",
+			"Enhanced physical abilities",
+			"Hypnotic Charm"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 3,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 5,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "146,87,93,1",
+				"cmyk": "37,70,52,17",
+				"hsb": "354,40,57",
+				"hex": "#92575d"
+			},
+			{
+				"rgba": "217,126,161,1",
+				"cmyk": "12,62,14,0",
+				"hsb": "337,42,85",
+				"hex": "#d97ea1"
+			}
+		]
+	},
+	{
+		"name": "Northstar",
+		"real_name": "Jean-Paul Beaubier",
+		"photo": "northstar.jpg",
+		"birth_place": "Montreal, Québec, Canada",
+		"lat": 45.508670,
+		"lng": -73.553992,
+		"status": "",
+		"bio": "Superhuman speed, flight, and projection of brilliant flashes of light.",
+		"first_appearance": 2002,
+		"team_affiliations": [
+			"X-Men",
+			"Children of the Vault",
+			"HYDRA",
+			"Secret Defenders",
+			"Dawn of White Light"
+		],
+		"abilities": [
+			"Superhuman speed and durability",
+			"Flight",
+			"Light manipulation"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 5,
+				"speed": 7,
+				"durability": 6,
+				"energy_projection": 6,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Longshot",
+		"real_name": "",
+		"photo": "longshot.jpg",
+		"birth_place": "Mojoverse",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "A warrior from the alternate reality the Mojoverse; not a mutant, but a genetically engineered organism.",
+		"first_appearance": 1987,
+		"team_affiliations": [
+			"X-Men",
+			"X-Factor Investigations",
+			"New Excalibur",
+			"Exiles",
+			"Wildways Rebellion"
+		],
+		"abilities": [
+			"Psychometry",
+			"Probability manipulation",
+			"Superhuman agility",
+			"Healing factor"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 4,
+				"speed": 5,
+				"durability": 4,
+				"energy_projection": 4,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Psylocke",
+		"real_name": "Elizabeth 'Betsy' Braddock",
+		"photo": "psylocke.jpg",
+		"birth_place": "Braddock Manor, England",
+		"lat": 52.355518,
+		"lng": -1.17432,
+		"status": "",
+		"bio": "Twin sister of Captain Britain, a.k.a. Brian Braddock. Has served as a field leader.",
+		"first_appearance": 1987,
+		"team_affiliations": [
+			"X-Men",
+			"Captain Britain Corps",
+			"Crimson Dawn",
+			"Hellfire Club",
+			"Horsemen of Apocalypse",
+			"Excalibur",
+			"Exiles",
+			"X-Club",
+			"X-Force"
+		],
+		"abilities": [
+			"Precognition",
+			"Empathy",
+			"Telepathy",
+			"Telekinesis",
+			"Psychic katana",
+			"Psychic knife",
+			"Highly skilled martial artist"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 3,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection":6,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "248,228,240,1",
+				"cmyk": "1,12,0,0",
+				"hsb": "324,8,97",
+				"hex": "#f8e4f0"
+			},
+			{
+				"rgba": "116,200,224,1",
+				"cmyk": "51,3,9,0",
+				"hsb": "193,48,88",
+				"hex": "#74c8e0"
+			}
+		]
+	},
+	{
+		"name": "Iron Man",
+		"real_name": "Anthony Edward 'Tony' Stark",
+		"photo": "ironman.jpg",
+		"birth_place": "Long Island, New York",
+		"lat": 40.789142,
+		"lng": -73.13496,
+		"status": "",
+		"bio": "",
+		"first_appearance": 1963,
+		"team_affiliations": [
+			"Avengers",
+			"New Avengers",
+			"Guardians of the Galaxy",
+			"Illuminati",
+			"The Mighty Avengers",
+			"Stark Industries",
+			"Stark Resilient",
+			"Thunderbolts",
+			"West Coast Avengers"
+		],
+		"abilities": [
+			"Genius-level intellect",
+			"A cyberpathic link with a prior version of his powered armored suit",
+			"Superhuman strength and durability",
+			"Supersonic flight at Mach 3",
+			"Energy repulsors",
+			"Missiles",
+			"Regenerative life support"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 6,
+				"speed": 5,
+				"durability": 6,
+				"energy_projection": 6,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "175,31,36,1",
+				"cmyk": "22,100,99,13",
+				"hsb": "357,82,69",
+				"hex": "#af1f24"
+			},
+			{
+				"rgba": "239,190,59,1",
+				"cmyk": "7,25,90,0",
+				"hsb": "44,75,94",
+				"hex": "#efbe3b"
+			}
+		]
+	},
+	{
+		"name": "Thor",
+		"real_name": "Thor Odinson",
+		"photo": "thor.jpg",
+		"birth_place": "Norway",
+		"lat": 60.472024,
+		"lng": 8.468946,
+		"status": "",
+		"bio": "Current member of the main Avengers team and the Avengers Unity Squad.",
+		"first_appearance": 1963,
+		"team_affiliations": [
+			"Asgard",
+			"Avengers",
+			"Warriors Three",
+			"Thor Corps",
+			"God Squad",
+			"Avengers Unity Squad"
+		],
+		"abilities": [
+			"Superhuman durability",
+			"longevity",
+			"speed",
+			"strength"
+		],
+		"power_grid": [
+			{
+				"intelligence": 2,
+				"strength": 6,
+				"speed": 5,
+				"durability": 6,
+				"energy_projection": 6,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "206,33,37,1",
+				"cmyk": "13,100,100,3",
+				"hsb": "359,84,81",
+				"hex": "#ce2125"
+			},
+			{
+				"rgba": "194,194,194,1",
+				"cmyk": "24,19,19,0",
+				"hsb": "0,0,76",
+				"hex": "#c2c2c2"
+			}
+		]
+	},
+	{
+		"name": "Ant Man (Henry Pym)",
+		"real_name": "Dr. Henry 'Hank' Jonathan Pym",
+		"photo": "antman.jpg",
+		"birth_place": "Elmsford, New York",
+		"lat": 41.055097,
+		"lng": -73.820134,
+		"status": "",
+		"bio": "Formerly the head of the Avengers Academy and former member of the Secret Avengers. Currently the leader of the Avengers A.I.",
+		"first_appearance": 1963,
+		"team_affiliations": [
+			"Avengers",
+			"West Coast Avengers",
+			"Mighty Avengers",
+			"Secret Defenders",
+			"Defenders",
+			"Avengers Academy",
+			"Secret Avengers",
+			"Avengers A.I."
+		],
+		"abilities": [
+			"Genius-level intellect",
+			"Size-shifting from nearly microscopic to ~100 feet gigantic (both at extremes)",
+			"Ability to transfer his size-shifting ability to other beings and objects",
+			"Bio-Energy Projection, also known as a Bio-Sting (particularly during his periods as Ant-Man & Yellowjacket)",
+			"Flight via grafted wings during his period as Yellowjacket",
+			"Telepathic communication with ants via cybernetic helmet as Ant-Man",
+			"Superhuman strength, stamina and mass in giant form as Giant-Man, Goliath and Yellowjacket"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 4,
+				"speed": 3,
+				"durability": 4,
+				"energy_projection": 3,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "193,47,57,1",
+				"cmyk": "17,95,82,6",
+				"hsb": "356,76,76",
+				"hex": "#c12f39"
+			},
+			{
+				"rgba": "82,95,112,1",
+				"cmyk": "71,57,41,18",
+				"hsb": "214,27,44,0",
+				"hex": "#525f70"
+			}
+		]
+	},
+	{
+		"name": "The Wasp (Janet Pym)",
+		"real_name": "Janet van Dyne",
+		"photo": "wasp_janet.jpg",
+		"birth_place": "Cresskill, New Jersey",
+		"lat": 40.941487,
+		"lng": -73.959304,
+		"status": "Usually depicted as having the ability to shrink to a height of perhaps several centimeters, grow to giant size, fly by means of insectoid wings, and fire yellow energy blasts.",
+		"bio": "",
+		"first_appearance": 1963,
+		"team_affiliations": [
+			"Avengers Unity Squad",
+			"Avengers",
+			"Lady Liberators",
+			"West Coast Avengers",
+			"Mighty Avengers"
+		],
+		"abilities": [
+			"Size manipulation",
+			"Flight",
+			"Bio-electric energy blasts",
+			"Telepathic insect control"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 4,
+				"speed": 3,
+				"durability": 4,
+				"energy_projection": 3,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "238,222,135,1",
+				"cmyk": "7,8,58,0",
+				"hsb": "51,43,93,0",
+				"hex": "#eede87"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Hulk",
+		"real_name": "Dr. Robert Bruce Banner",
+		"photo": "hulk.jpg",
+		"birth_place": "Dayton, Ohio",
+		"lat": 39.758948, 
+		"lng": -84.191607,
+		"status": "",
+		"bio": "",
+		"first_appearance": 1963,
+		"team_affiliations": [
+			"Avengers",
+			"New Avengers",
+			"Defenders",
+			"Secret Defenders",
+			"Horsemen of Apocalypse",
+			"Hulkbusters",
+			"The Mighty Avengers",
+			"The Order"
+		],
+		"abilities": [
+			"Genius-level intellect",
+			"Super strength, speed, endurance, reflexes, and durability",
+			"Immunity to diseases and viruses",
+			"Adrenal activation and anger empowerment",
+			"Accelerated healing and longevity",
+			"Resistance to mind control",
+			"Able to sense astral forms",
+			"Skilled hand-to-hand combatant",
+			"Ability to breathe underwater"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 7,
+				"speed": 7,
+				"durability": 7,
+				"energy_projection": 1,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "141,155,60,1",
+				"cmyk": "49,25,98,5",
+				"hsb": "68,61,61",
+				"hex": "#8d9b3c"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Captain America",
+		"real_name": "Steven 'Steve' Grant Rogers",
+		"photo": "captain_america.jpg",
+		"birth_place": "New York City, NY",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Current leader of the main Avengers team and a member of the Avengers Unity Squad.",
+		"first_appearance": 1964,
+		"team_affiliations": [
+			"Avengers",
+			"Avengers Unity Squad",
+			"Illuminati",
+			"Invaders",
+			"New Avengers",
+			"Project: Rebirth",
+			"Redeemers",
+			"Secret Avengers",
+			"Secret Defenders"
+		],
+		"abilities": [
+			"Peak of human physical conditioning",
+			"Expert acrobat, tactician, and marksman",
+			"Master martial artist and shield fighter",
+			"Excellent field commander",
+			"Wields his vibranium-steel alloy shield with hyperkinetic senses"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 3,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "37,102,151,1",
+				"cmyk": "89,59,19,3",
+				"hsb": "206,75,59",
+				"hex": "#256697"
+			},
+			{
+				"rgba": "175,31,36,1",
+				"cmyk": "22,100,99,13",
+				"hsb": "357,82,69",
+				"hex": "#af1f24"
+			}
+		]
+	},
+	{
+		"name": "Hawkeye",
+		"real_name": "Clinton Francis Barton",
+		"photo": "hawkeye.jpg",
+		"birth_place": "Waverly, Iowa",
+		"lat": 42.727203,
+		"lng": -92.466851,
+		"status": "",
+		"bio": "Current member of the main Avengers team, and the Secret Avengers.",
+		"first_appearance": 1965,
+		"team_affiliations": [
+			"Avengers",
+			"Avengers Academy",
+			"Defenders",
+			"Great Lakes Avengers",
+			"New Avengers",
+			"Secret Avengers",
+			"Thunderbolts",
+			"West Coast Avengers"
+		],
+		"abilities": [
+			"Grandmaster archer",
+			"Uses a variety of trick arrows",
+			"Superb athlete",
+			"Exceptional arm strength",
+			"Enhanced eye-sight",
+			"Master martial artist, acrobat, marksman and swordsman",
+			"Experienced pilot"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 3,
+				"speed": 3,
+				"durability": 2,
+				"energy_projection": 2,
+				"fighting_skills": 7
+			}
+		],
+		"colors": [
+			{
+				"rgba": "82,41,99,1",
+				"cmyk": "78,96,30,20",
+				"hsb": "282,59,39",
+				"hex": "#522963"
+			},
+			{
+				"rgba": "182,80,128,1",
+				"cmyk": "29,82,25,0",
+				"hsb": "332,56,71",
+				"hex": "#b65080"
+			}
+		]
+	},
+	{
+		"name": "Quicksilver",
+		"real_name": "Pietro Django Maximoff",
+		"photo": "quicksilver.jpg",
+		"birth_place": "Transia",
+		"lat": 45.516389,
+		"lng": 21.056389,
+		"status": "",
+		"bio": "Joined West Coast branch in Avengers West Coast #56. Joined the Mighty Avengers in Mighty Avengers #24. Former teacher at the Avengers Academy.",
+		"first_appearance": 1965,
+		"team_affiliations": [
+			"Avengers",
+			"Mighty Avengers",
+			"Brotherhood of Mutants",
+			"Inhumans",
+			"X-Factor",
+			"Avengers Academy"
+		],
+		"abilities": [
+			"Superhuman speed"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 2,
+				"speed": 7,
+				"durability": 2,
+				"energy_projection": 2,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "51,104,154,1",
+				"cmyk": "76,43,15,1",
+				"hsb": "209,67,60",
+				"hex": "#33689a"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Scarlet Witch",
+		"real_name": "Wanda Maximoff",
+		"photo": "scarlet_witch.jpg",
+		"birth_place": "Transia",
+		"lat": 45.516389,
+		"lng": 21.056389,
+		"status": "",
+		"bio": "Joined West Coast branch in West Coast Avengers vol. 2 #37. Disappeared and apparently de-powered at the end of House of M.",
+		"first_appearance": 1965,
+		"team_affiliations": [
+			"Avengers",
+			"Brotherhood of Mutants",
+			"Avengers",
+			"Lady Liberators",
+			"West Coast Avengers",
+			"Defenders",
+			"Secret Defenders",
+			"Force Works"
+		],
+		"abilities": [
+			"Probability manipulation",
+			"Reality alteration",
+			"Chaos Magic"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 3,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 7,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "210,35,60,1",
+				"cmyk": "12,99,79,0",
+				"hsb": "351,83,83",
+				"hex": "#5d2233c"
+			},
+			{
+				"rgba": "221,126,181,1",
+				"cmyk": "10,62,0,0",
+				"hsb": "325,43,87",
+				"hex": "#dd7eb5"
+			}
+		]
+	},
+	{
+		"name": "Black Panther",
+		"real_name": "T'Challa",
+		"photo": "black_panther.jpg",
+		"birth_place": "Wakanda",
+		"lat": 29.411690,
+		"lng": 30.533104,
+		"status": "",
+		"bio": "Current member of the New Avengers.",
+		"first_appearance": 1968,
+		"team_affiliations": [
+			"Avengers",
+			"Fantastic Four",
+			"Defenders",
+			"Fantastic Force"
+		],
+		"abilities": [
+			"Superhuman senses",
+			"Olympic-level strength, speed, reflexes, stamina, and agility",
+			"Genius-level intellect",
+			"Skilled hunter, scientist, tracker, strategist, inventor, and hand-to-hand combatant",
+			"Trained gymnast and acrobat",
+			"Wields vibranium uniform, boots, and equipment",
+			"Wields retractable vibranium claws (which can slice through any substance)"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 4,
+				"speed": 4,
+				"durability": 3,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Vision",
+		"real_name": "Victor Shade",
+		"photo": "vision.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Rebuilt in Avengers vol. 4 #19. Current member Avengers A.I.",
+		"first_appearance": 1968,
+		"team_affiliations": [
+			"Avengers",
+			"West Coast Avengers",
+			"Young Avengers",
+			"Mighty Avengers"
+		],
+		"abilities": [
+			"Density control ranging from invulnerability to intangibility",
+			"Mass control ranging from extraordinarily heavy to weightlessness",
+			"Utilizes phasing into beings/objects then solidifying as a means of molecular disruption, causing pain/damage or death/destruction",
+			"Flight",
+			"Solar energy projection (via eyes or solar jewel on forehead)",
+			"Computer/IT network interfacing",
+			"Superhuman strength, intelligence, reflexes and senses as an artificial being",
+			"Capable of self repair and regeneration as an artificial being"
+		],
+		"power_grid": [
+			{
+				"intelligence": 7,
+				"strength": 7,
+				"speed": 6,
+				"durability": 7,
+				"energy_projection": 7,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "237,55,34,1",
+				"cmyk": "0,93,100,0",
+				"hsb": "6,86,93",
+				"hex": "#ed3722"
+			},
+			{
+				"rgba": "41,169,74,1",
+				"cmyk": "80,6,100,0",
+				"hsb": "135,76,66",
+				"hex": "#29a94a"
+			}
+		]
+	},
+	{
+		"name": "Black Widow",
+		"real_name": "Natalia Alianovna Romanova",
+		"photo": "black_widow.jpg",
+		"birth_place": "Stalingrad",
+		"lat": 48.700000,
+		"lng": 44.516667,
+		"status": "",
+		"bio": "Current member of the Secret Avengers.",
+		"first_appearance": 1973,
+		"team_affiliations": [
+			"Avengers",
+			"Marvel Knights",
+			"Mighty Avengers",
+			"Lady Liberators",
+			"Thunderbolts",
+			"Secret Avengers",
+			"Heroes for Hire"
+		],
+		"abilities": [
+			"Slowed aging",
+			"Enhanced immune system",
+			"Abnormally superior athletic condition",
+			"Extensive military, hand-to-hand combat, martial arts, and espionage training",
+			"Hypnosis",
+			"Enhanced psychological defenses"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 2,
+				"speed": 2,
+				"durability": 3,
+				"energy_projection": 3,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Mantis",
+		"real_name": "Mandy Celestine",
+		"photo": "mantis.jpg",
+		"birth_place": "Vietnam",
+		"lat": 14.058324,
+		"lng": 108.277199,
+		"status": "",
+		"bio": "",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"Avengers",
+			"West Coast Avengers"
+		],
+		"abilities": [
+			"Grandmaster martial artist",
+			"Ability to communicate telepathically with the Cotati",
+			"Empathy",
+			"Plant manipulation",
+			"Accelerated healing factor",
+			"Astral projection"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 3,
+				"speed": 5,
+				"durability": 5,
+				"energy_projection": 5,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "168,209,42,1",
+				"cmyk": "40,0,100,0",
+				"hsb": "75,80,82",
+				"hex": "#a8d12a"
+			},
+			{
+				"rgba": "226,225,45,1",
+				"cmyk": "15,0,94,100",
+				"hsb": "60,80,89",
+				"hex": "#e2e12d"
+			}
+		]
+	},
+	{
+		"name": "Daredevil",
+		"real_name": "Matthew 'Matt' Murdock",
+		"photo": "daredevil.jpg",
+		"birth_place": "New York City, NY",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Living in the Hell's Kitchen neighborhood of New York City, Matt Murdock is blinded by a radioactive substance that falls from an oncoming vehicle. While he no longer can see, the radioactive exposure heightens his remaining senses beyond normal human ability.",
+		"first_appearance": 2011,
+		"team_affiliations": [
+			"Avengers",
+			"New Avengers",
+			"The Chaste",
+			"Nelson & Murdock",
+			"Defenders",
+			"The Hand"
+		],
+		"abilities": [
+			"Radar sense",
+			"Superhuman senses",
+			"Excellent athlete",
+			"Skilled detective",
+			"Expert marksman",
+			"Master martial artist, gymnast, and acrobat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 2,
+				"speed": 3,
+				"durability": 2,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "138,6,22,1",
+				"cmyk": "27,100,100,32",
+				"hsb": "353,96,54",
+				"hex": "#8a0616"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Spider-Man",
+		"real_name": "Peter Benjamin Parker",
+		"photo": "spiderman.jpg",
+		"birth_place": "Forest Hills, New York",
+		"lat": 40.718106,
+		"lng": -73.844847,
+		"status": "",
+		"bio": "Joined as a reserve member. Former member of the New Avengers, while serving concurrently as a member of the Future Foundation.",
+		"first_appearance": 1991,
+		"team_affiliations": [
+			"Avengers",
+			"Spiderman",
+			"Front Line",
+			"Future Foundation",
+			"Heroes for Hire",
+			"Horizon Labs",
+			"Mighty Avengers",
+			"New Avengers",
+			"New Fantastic Four"
+		],
+		"abilities": [
+			"Superhuman strength, speed, agility, stamina, reflexes, and endurance",
+			"Ability to cling to most surfaces",
+			"Able to shoot very strong spider-web strings from wrists via web-shooters",
+			"Precognitive Spider-Sense",
+			"Genius-level intellect",
+			"Master hand-to-hand combatant"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 4,
+				"speed": 5,
+				"durability": 3,
+				"energy_projection": 4,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "192,0,0,1",
+				"cmyk": "17,100,100,8",
+				"hsb": "0,100,75",
+				"hex": "#c00000"
+			},
+			{
+				"rgba": "58,86,162,1",
+				"cmyk": "87,74,3,0",
+				"hsb": "224,64,64",
+				"hex": "#3a56a2"
+			}
+		]
+	},
+	{
+		"name": "Scarlet Spider",
+		"real_name": "Benjamin 'Ben' Reilly",
+		"photo": "scarlet_spider.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Ben Reilly was the most genetically stable of the many clones of Spider-Man created by Professor Miles Warren, the Jackal.",
+		"first_appearance": 1975,
+		"team_affiliations": [
+			"Spiderman",
+			"New Warriors"
+		],
+		"abilities": [
+			"Superhuman strength, speed, stamina, reflexes, durability, and agility",
+			"Ability to cling to most surfaces",
+			"High pain tolerance",
+			"Able to shoot impact webbing from devices",
+			"Precognitive Spider-Sense",
+			"Genius-level Intellect",
+			"Expert swordsman",
+			"Master hand-to-hand combatant"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 4,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 3,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "192,0,0,1",
+				"cmyk": "17,100,100,8",
+				"hsb": "0,100,75",
+				"hex": "#c00000"
+			},
+			{
+				"rgba": "58,86,162,1",
+				"cmyk": "87,74,3,0",
+				"hsb": "224,64,64",
+				"hex": "#3a56a2"
+			}
+		]
+	},
+	{
+		"name": "Venom",
+		"real_name": "Eddie Brock",
+		"photo": "venom.jpg",
+		"birth_place": "New York, NY",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "The character is a Symbiote, a sentient alien, with a gooey, almost liquid-like form that requires a host, usually human, to bond with for its survival, as with real world symbiotes, and to whom it endows enhanced powers. ",
+		"first_appearance": 1984,
+		"team_affiliations": [
+			"Spiderman",
+			"Venom",
+			"Anti-Venom",
+			"Toxin"
+		],
+		"abilities": [
+			"Superhuman strength, agility, reflexes and endurance",
+			"Organic webbing",
+			"Ability to cling to most surfaces",
+			"Immunity to Spider Sense",
+			"Limited shapeshifting and camouflage",
+			"Knowledge of the previous host"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 5,
+				"speed": 3,
+				"durability": 5,
+				"energy_projection": 3,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Carnage",
+		"real_name": "Cletus Kasady",
+		"photo": "carnage.jpg",
+		"birth_place": "Brooklyn, New York",
+		"lat": 40.650000,
+		"lng": -73.95,
+		"status": "",
+		"bio": "Carnage was once a serial killer known as Cletus Kasady, and became Carnage after merging with the offspring of the alien symbiote called Venom during a prison breakout.",
+		"first_appearance": 1991,
+		"team_affiliations": [
+			"Spiderman"
+		],
+		"abilities": [
+			"Alien symbiote"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 5,
+				"speed": 3,
+				"durability": 5,
+				"energy_projection": 3,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Black Cat",
+		"real_name": "Felicia Hardy",
+		"photo": "black_cat.jpg",
+		"birth_place": "Flushing, New York",
+		"lat": 40.765808,
+		"lng": -73.833084,
+		"status": "",
+		"bio": "Black Cat is a reformed burglar who continues to walk on the wild side as a detective and adventurer.",
+		"first_appearance": 1979,
+		"team_affiliations": [
+			"Spiderman",
+			"Heroes for Hire", 
+			"Defenders"
+		],
+		"abilities": [
+			"Probability manipulation", 
+			"Grapnel hidden in sleeves", 
+			"Expert martial artist with excellent gymnastic abilities", 
+			"Expert burglar", 
+			"Superhuman sense of smell and night vision"
+		],
+		"power_grid": [
+			{
+				"intelligence": 2,
+				"strength": 2,
+				"speed": 3,
+				"durability": 2,
+				"energy_projection": 1,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Iron Lad",
+		"real_name": "Nathaniel Richards",
+		"photo": "ironlad.jpg",
+		"birth_place": "Earth-6311 in the 31st century",
+		"lat": "",
+		"lng": 0,
+		"status": 0,
+		"bio": "Founder. Nathaniel Richards is the young man who will one day become Kang the Conqueror. He is armed with a neuro-kinetic suit given to him by Kang the Conqueror (of the future) that responds to mental commands. He left team to become Kang.",
+		"first_appearance": 2005,
+		"team_affiliations": [
+			"Young Avengers"
+		],
+		"abilities": [
+			"Possesses neurokinetic armor which responds to his thoughts and allows him to fly", 
+			"Can create energy blasts", 
+			"Can create magnetic fields", 
+			"Time travel", 
+			"Change the appearance of the armor", 
+			"Can hack into computer systems"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 4,
+				"speed": 7,
+				"durability": 5,
+				"energy_projection": 6,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "175,31,36,1",
+				"cmyk": "22,100,99,13",
+				"hsb": "357,82,69",
+				"hex": "#af1f24"
+			},
+			{
+				"rgba": "239,190,59,1",
+				"cmyk": "7,25,90,0",
+				"hsb": "44,75,94",
+				"hex": "#efbe3b"
+			}
+		]
+	},
+	{
+		"name": "Hulkling",
+		"real_name": "Theodore 'Teddy' Altman",
+		"photo": "hulkling.jpg",
+		"birth_place": "Skrull Throneworld",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Original member chosen by Nathaniel. He is a shape-shifter who also possesses enhanced strength and healing. He is the son of Kree hero Captain Mar-Vell and the Skrull princess Anelle; he is a Kree-Skrull hybrid, though Kree law considers him wholly Kree and Skrull law considers him wholly Skrull.",
+		"first_appearance": 2005,
+		"team_affiliations": [
+			"Young Avengers"
+		],
+		"abilities": [
+			"Shapeshifting",
+			"Superhuman strength",
+			"Accelerated healing factor"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 6,
+				"speed": 3,
+				"durability": 6,
+				"energy_projection": 2,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "20,142,65,1",
+				"cmyk": "86,20,100,6",
+				"hsb": "142,86,56",
+				"hex": "#148e41"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,0",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Patriot",
+		"real_name": "Elijah 'Eli' Bradley",
+		"photo": "patriot.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Original member chosen by Nathaniel. Patriot was revealed to be the grandson of super-soldier Isaiah Bradley and while he initially had no superhuman abilities, he later developed abilities that he claimed he received through a blood transfusion from his grandfather.",
+		"first_appearance": 2005,
+		"team_affiliations": [
+			"Young Avengers"
+		],
+		"abilities": [
+			"Enhanced strength",
+			"Enhanced speed",
+			"Enhanced agility", 
+			"Enhanced endurance",
+			"Enhanced hearing"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 4,
+				"speed": 4,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "57,126,165,1",
+				"cmyk": "79,43,20,0",
+				"hsb": "202,65,65",
+				"hex": "#397ea5"
+			},
+			{
+				"rgba": "255,0,0,1",
+				"cmyk": "0,100,100,0",
+				"hsb": "0,100,100",
+				"hex": "#ff0000"
+			}
+		]
+	},
+	{
+		"name": "Wiccan",
+		"real_name": "William 'Billy' Kaplan",
+		"photo": "wiccan.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Original member chosen by Nathaniel. He is the reincarnated son of the Scarlet Witch and the original Vision. Billy uses magic for various effects, such as casting spells for flight, lightning generation, and locating people, and activates these spells by repeating the intended effect out loud. Thomas Shepherd (Speed) is his twin brother.",
+		"first_appearance": 2005,
+		"team_affiliations": [
+			"Young Avengers"
+		],
+		"abilities": [
+			"Astral projection",
+			"Flight",
+			"Force field generation",
+			"Healing",
+			"Lightning generation",
+			"Pyrokinesis",
+			"Reality alteration",
+			"Spell-casting",
+			"Teleportation"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 4,
+				"speed": 6,
+				"durability": 5,
+				"energy_projection": 7,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "109,125,138,1",
+				"cmyk": "61,44,36,6",
+				"hsb": "207,21,54",
+				"hex": "#6d7d8a"
+			},
+			{
+				"rgba": "121,16,23,1",
+				"cmyk": "30,100,95,40",
+				"hsb": "357,87,47",
+				"hex": "#791017"
+			}
+		]
+	},
+	{
+		"name": "Hawkeye",
+		"real_name": "Kate Bishop",
+		"photo": "hawkeye_kate.jpg",
+		"birth_place": "New York City, NY",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "She forcibly introduced herself into the Young Avengers, saving them from a botched rescue. While Kate has no superhuman abilities, she is competent with a bow and arrow as well as a sword.",
+		"first_appearance": 2005,
+		"team_affiliations": [
+			"Young Avengers"
+		],
+		"abilities": [
+			"Highly skilled at archery",
+			"Fencing",
+			"Sword fighting",
+			"Jujitsu",
+			"Boxing",
+			"Highly skilled at forms of combat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 2,
+				"speed": 2,
+				"durability": 2,
+				"energy_projection": 1,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "154,171,225,1",
+				"cmyk": "38,27,0,0",
+				"hsb": "226,32,88",
+				"hex": "#9aabe1"
+			},
+			{
+				"rgba": "240,252,248,1",
+				"cmyk": "5,0,3,0",
+				"hsb": "160,5,99",
+				"hex": "#f0fcf8"
+			}
+		]
+	},
+	{
+		"name": "Stature",
+		"real_name": "Cassandra Lang",
+		"photo": "stature.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Daughter of former Ant-Man, the late Scott Lang. She has the power to change size at will. ",
+		"first_appearance": 2005,
+		"team_affiliations": [
+			"The Initiative",
+			"Mighty Avengers",
+			"Young Avengers"
+		],
+		"abilities": [
+			"Ability to shrink and grow in size",
+			"Hand-to-hand combat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 5,
+				"speed": 4,
+				"durability": 5,
+				"energy_projection": 3,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "248,85,16,1",
+				"cmyk": "0,81,100,0",
+				"hsb": "18,94,97",
+				"hex": "#f85510"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,0",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Kid Loki",
+		"real_name": "Loki Laufeyson",
+		"photo": "kidloki.jpg",
+		"birth_place": "Jotunheim, Asgard",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "An Asgardian prince and the adoptive brother of the superhero Thor, trapped in the body of a young boy following his death and reincarnation. ",
+		"first_appearance": 2005,
+		"team_affiliations": [
+			"Acts of Vengeance",
+			"Cabal",
+			"Young Avengers"
+		],
+		"abilities": [
+			"Genius-level intellect",
+			"Telepathy",
+			"Flight",
+			"Shapeshifting",
+			"Inter-dimensional teleportation",
+			"Psionic ability",
+			"Astral projection",
+			"Molecular rearrangement",
+			"Energy blasts",
+			"Illusion casting",
+			"Hypnosis"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 5,
+				"speed": 3,
+				"durability": 4,
+				"energy_projection": 5,
+				"fighting_skills": 2
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,124,103,1",
+				"cmyk": "87,30,67,13",
+				"hsb": "179,100,49",
+				"hex": "#007c67"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,0",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Marvel Boy",
+		"real_name": "Noh-Varr",
+		"photo": "marvelboy.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "An intergalactic ladies man who has left a trail of broken hearts around the galaxy, Noh-Varr is a Kree superhero.",
+		"first_appearance": 2000,
+		"team_affiliations": [
+			"Plex",
+			"Kree Empire",
+			"18th Kree Diplomatic Gestalt",
+			"Dark Avengers",
+			"Avengers",
+			"Young Avengers"
+		],
+		"abilities": [
+			"Enhanced reflexes", 
+			"Enhanced strength", 
+			"Enhanced speed",
+			"Enhanced stamina",
+			"Knowledge of advanced Kree technology and weaponry"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 4,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 1,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,0",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Prodigy",
+		"real_name": "David Alleyne",
+		"photo": "placeholder.jpg",
+		"birth_place": "Chicago, Illinois",
+		"lat": 41.878114,
+		"lng": -87.629798,
+		"status": "",
+		"bio": "An intergalactic ladies man who has left a trail of broken hearts around the galaxy, Noh-Varr is a Kree superhero.",
+		"first_appearance": 2003,
+		"team_affiliations": [
+			"Young Avengers",
+			"New Mutants training squad",
+			"New X-Men",
+			"Xavier Institute",
+			"X-Men-In-Training"
+		],
+		"abilities": [
+			"Possesses the combined knowledge of every mind he has encountered up to M-Day, including the X-Men"
+		],
+		"power_grid": [
+			{
+				"intelligence": 7,
+				"strength": 4,
+				"speed": 4,
+				"durability": 4,
+				"energy_projection": 4,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,0",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,0",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Speed",
+		"real_name": "Thomas 'Tommy' Shepherd",
+		"photo": "speed.jpg",
+		"birth_place": "New York City, NY",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "When the Scarlet Witch became desperate to have children, she used her reality-altering powers to create twin boys from two lost souls. Scarlet Witch and Vision named their children William and Thomas and lived normal lives until Mephisto claimed the two souls as his own.",
+		"first_appearance": 2006,
+		"team_affiliations": [
+			"Young Avengers"
+		],
+		"abilities": [
+			"Superhuman speed",
+			"Molecular acceleration"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 3,
+				"speed": 6,
+				"durability": 4,
+				"energy_projection": 4,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "24,96,12,1",
+				"cmyk": "85,36,100,32",
+				"hsb": "111,88,38",
+				"hex": "#18600c"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	}
+]

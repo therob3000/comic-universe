@@ -1,0 +1,2051 @@
+[
+	{
+		"name": "Superman",
+		"real_name": "Kal-El / Clark Joseph Kent",
+		"photo": "superman.jpg",
+		"birth_place": "Metropolis",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Superman, also known as the Man of Steel, is one of the most powerful superheroes in the DC Universe.",
+		"first_appearance": 1933,
+		"team_affiliations": [
+			"Justice League of America",
+			"Superman Inc"
+		],
+		"abilities": [
+			"Agility",
+			"Attractive Male",
+			"Berserker Strength",
+			"Blast Power",
+			"Energy Absorption",
+			"Flight",
+			"Healing",
+			"Heat Vision",
+			"Ice Breath",
+			"Intellect",
+			"Invulnerability",
+			"Leadership",
+			"Longevity",
+			"Stamina",
+			"Super Hearing",
+			"Super Sight",
+			"Super Speed",
+			"Super Strength",
+			"Unarmed Combat",
+			"Wind Bursts"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 6,
+				"speed": 6,
+				"durability": 7,
+				"energy_projection": 5,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "215,59,60,1",
+				"cmyk": "10,92,81,1",
+				"hsb": "0,73,84",
+				"hex": "#d73b3c"
+			},
+			{
+				"rgba": "35,91,147,1",
+				"cmyk": "92,68,17,3",
+				"hsb": "210,76,58",
+				"hex": "#235b93"
+			}
+		]
+	},
+	{
+		"name": "Supergirl",
+		"real_name": "Kara Zor-El / Kara Kent",
+		"photo": "supergirl.jpg",
+		"birth_place": "Metropolis",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Superman, also known as the Man of Steel, is one of the most powerful superheroes in the DC Universe.",
+		"first_appearance": 1958,
+		"team_affiliations": [
+			"Justice League of America",
+			"Superman Inc",
+			"Legion of Superheroes",
+			"Teen Titans"
+		],
+		"abilities": [
+			"Agility",
+			"Berserker Strength",
+			"Energy Absorption",
+			"Flight",
+			"Healing",
+			"Heat Vision",
+			"Ice Breath",
+			"Intellect",
+			"Invisibility",
+			"Invulnerability",
+			"Leadership",
+			"Levitation",
+			"Longevity",
+			"Marksmanship",
+			"Omni-lingual",
+			"Sonic Scream",
+			"Stamina",
+			"Super Hearing",
+			"Super Sight",
+			"Super Smell",
+			"Super Speed",
+			"Super Strength",
+			"Tracking",
+			"Unarmed Combat",
+			"Vibration Wave",
+			"Wind Bursts"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 6,
+				"speed": 6,
+				"durability": 7,
+				"energy_projection": 5,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "215,59,60,1",
+				"cmyk": "10,92,81,1",
+				"hsb": "0,73,84",
+				"hex": "#d73b3c"
+			},
+			{
+				"rgba": "35,91,147,1",
+				"cmyk": "92,68,17,3",
+				"hsb": "210,76,58",
+				"hex": "#235b93"
+			}
+		]
+	},
+	{
+		"name": "Batman",
+		"real_name": "Bruce Wayne",
+		"photo": "batman.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1939,
+		"team_affiliations": [
+			"Justice League of America",
+			"Batman Inc"
+		],
+		"abilities": [
+			"Adaptive",
+			"Agility",
+			"Attractive Male",
+			"Escape Artist",
+			"Gadgets",
+			"Insanely Rich",
+			"Intellect",
+			"Leadership",
+			"Marksmanship",
+			"Power Suit",
+			"Stamina",
+			"Stealth",
+			"Swordsmanship",
+			"Tracking",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 5,
+				"speed": 5,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "89,89,89,1",
+				"cmyk": "63,55,55,28",
+				"hsb": "0,0,35",
+				"hex": "#595959"
+			}
+		]
+	},
+	{
+		"name": "Nightwing",
+		"real_name": "Dick Grayson",
+		"photo": "nightwing.jpg",
+		"birth_place": "Blüdhaven",
+		"lat": 40.330666, 
+		"lng": -74.120975,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1940,
+		"team_affiliations": [
+			"Justice League of America",
+			"Batman Inc",
+			"Justice League of Arkham",
+			"Justice Society of America",
+			"Outsiders",
+			"Teen Titans",
+			"The Titans",
+			"Young Justice"
+		],
+		"abilities": [
+			"Agility",
+			"Escape Artist",
+			"Gadgets",
+			"Intellect",
+			"Leadership",
+			"Stamina",
+			"Stealth",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 5,
+				"speed": 5,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "57,152,206,1",
+				"cmyk": "72,27,2,0",
+				"hsb": "202,72,81",
+				"hex": "#3998ce"
+			}
+		]
+	},
+	{
+		"name": "Batgirl",
+		"real_name": "Barbara Gordon",
+		"photo": "batgirl.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "While attending a costume party dressed as a female counterpart of Batman, Barbara Gordon witnesses the kidnapping of billionaire Bruce Wayne by super-villain Killer Moth. She prevents this and without realizing it, draws the attention of the Dark Knight.",
+		"first_appearance": 1961,
+		"team_affiliations": [
+			"Justice League of America",
+			"Batman Inc",
+			"Birds of Prey",
+			"Young Justice"
+		],
+		"abilities": [
+			"Electronic interaction",
+			"Gadgets",
+			"Intellect",
+			"Leadership",
+			"Marksmanship",
+			"Power Item",
+			"Stealth",
+			"Technopathy",
+			"Tracking",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 5,
+				"speed": 5,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "241,162,9,1",
+				"cmyk": "4,40,100,0",
+				"hsb": "40,96,95",
+				"hex": "#f1a209"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Wonder Woman",
+		"real_name": "Diana Prince",
+		"photo": "wonder_woman.jpg",
+		"birth_place": "Themyscira",
+		"lat": 30.637912,
+		"lng": -68.049316,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1941,
+		"team_affiliations": [
+			"Justice League of America",
+			"Wonder Woman Inc"
+		],
+		"abilities": [
+			
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 6,
+				"speed": 4,
+				"durability": 6,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "215,59,60,1",
+				"cmyk": "10,92,81,1",
+				"hsb": "0,73,84",
+				"hex": "#d73b3c"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Flash",
+		"real_name": "Barry Allen",
+		"photo": "flash_barry.jpg",
+		"birth_place": "Central City",
+		"lat": 39.188094,
+		"lng": -94.789696,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1956,
+		"team_affiliations": [
+			"Justice League of America",
+			"Speedsters"
+		],
+		"abilities": [
+			"Agility",
+			"Force Field",
+			"Healing",
+			"Intellect",
+			"Invisibility",
+			"Leadership",
+			"Longevity",
+			"Phasing / Ghost",
+			"Stamina",
+			"Super Speed",
+			"Time Travel",
+			"Unarmed Combat",
+			"Wind Bursts"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 3,
+				"speed": 7,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "240,62,36,1",
+				"cmyk": "0,91,99,0",
+				"hsb": "8,85,94",
+				"hex": "#f03e24"
+			},
+			{
+				"rgba": "255,218,46,1",
+				"cmyk": "0,11,91,0",
+				"hsb": "49,82,100",
+				"hex": "#ffda2e"
+			}
+		]
+	},
+	{
+		"name": "Flash/Golden Age",
+		"real_name": "Jason Peter Garrick",
+		"photo": "jay_garrick.jpg",
+		"birth_place": "Central City",
+		"lat": 39.188094,
+		"lng": -94.789696,
+		"status": "",
+		"bio": "When Jason Peter 'Jay' Garrick was a young boy he read many pulp magazine stories all about the super-hero, Whip Whirlwind. Little did that young Jay Garrick know that one day he would gain the same super powers as his childhood hero, Whip Whirlwind.",
+		"first_appearance": 1940,
+		"team_affiliations": [
+			"Justice League of America",
+			"Justice Society of America",
+			"Speedsters"
+		],
+		"abilities": [
+			"Agility",
+			"Energy Manipulation",
+			"Force Field",
+			"Intellect",
+			"Invisibility",
+			"Leadership",
+			"Longevity",
+			"Phasing / Ghost",
+			"Stamina",
+			"Super Speed",
+			"Tracking",
+			"Wind Bursts"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 3,
+				"speed": 7,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "240,62,36,1",
+				"cmyk": "0,91,99,0",
+				"hsb": "8,85,94",
+				"hex": "#f03e24"
+			},
+			{
+				"rgba": "255,218,46,1",
+				"cmyk": "0,11,91,0",
+				"hsb": "49,82,100",
+				"hex": "#ffda2e"
+			}
+		]
+	},
+	{
+		"name": "Kid Flash/Flash",
+		"real_name": "Wally West",
+		"photo": "kid_flash.jpg",
+		"birth_place": "Keystone City",
+		"lat": 39.188094,
+		"lng": -94.789696,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1960,
+		"team_affiliations": [
+			"Justice League of America",
+			"Speedsters",
+			"Teen Titans",
+			"The Titans",
+			"Young Justice"
+		],
+		"abilities": [
+			"Agility",
+			"Energy Based Constructs",
+			"Healing",
+			"Inertia Absorption",
+			"Intellect",
+			"Invisibility",
+			"Longevity",
+			"Phasing / Ghost",
+			"Stamina",
+			"Super Speed",
+			"Time Travel",
+			"Unarmed Combat",
+			"Wind Bursts"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "240,62,36,1",
+				"cmyk": "0,91,99,0",
+				"hsb": "8,85,94",
+				"hex": "#f03e24"
+			},
+			{
+				"rgba": "255,218,46,1",
+				"cmyk": "0,11,91,0",
+				"hsb": "49,82,100",
+				"hex": "#ffda2e"
+			}
+		]
+	},
+	{
+		"name": "Superboy",
+		"real_name": "Kon-El / Conner Kent",
+		"photo": "superboy.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1945,
+		"team_affiliations": [
+			"Superman Inc",
+			"Legion of Superheroes",
+			"Teen Titans",
+			"Young Justice"
+		],
+		"abilities": [
+			"Agility",
+			"Berserker Strength",
+			"Blast Power",
+			"Energy Absorption",
+			"Flight",
+			"Force Field",
+			"Gadgets",
+			"Healing",
+			"Intellect",
+			"Invulnerability",
+			"Leadership",
+			"Longevity",
+			"Psionic",
+			"Stamina",
+			"Super Speed",
+			"Super Strength",
+			"Telekinesis",
+			"Unarmed Combat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 3,
+				"strength": 6,
+				"speed": 6,
+				"durability": 6,
+				"energy_projection": 6,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "158,40,40,1",
+				"cmyk": "25,95,91,21",
+				"hsb": "0,75,62",
+				"hex": "#9e2828"
+			}
+		]
+	},
+	{
+		"name": "Aquaman",
+		"real_name": "Arthur Curry",
+		"photo": "aquaman.jpg",
+		"birth_place": "Atlantis",
+		"lat": 33.431441,
+		"lng": -44.824219,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1941,
+		"team_affiliations": [
+			"Justice League of America",
+			"Aquaman Inc"
+		],
+		"abilities": [
+			"Agility",
+			"Animal Control",
+			"Attractive Male",
+			"Healing",
+			"Insanely Rich",
+			"Intellect",
+			"Invulnerability",
+			"Leadership",
+			"Longevity",
+			"Power Item",
+			"Radar Sense",
+			"Stamina",
+			"Sub-Mariner",
+			"Super Hearing",
+			"Super Sight",
+			"Super Speed",
+			"Super Strength",
+			"Swordsmanship",
+			"Telepathy",
+			"Unarmed Combat",
+			"Water Control",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 6,
+				"speed": 6,
+				"durability": 5,
+				"energy_projection": 1,
+				"fighting_skills": 5
+			}
+		],
+		"colors": [
+			{
+				"rgba": "255,176,22,1",
+				"cmyk": "0,35,98,0",
+				"hsb": "40,91,100",
+				"hex": "#ffb016"
+			},
+			{
+				"rgba": "92,180,69,1",
+				"cmyk": "68,3,100,0",
+				"hsb": "108,62,71",
+				"hex": "#5cb445"
+			}
+		]
+	},
+	{
+		"name": "Green Lantern",
+		"real_name": "Hal Jordan",
+		"photo": "green_lantern_hal.jpg",
+		"birth_place": "Coast City",
+		"lat": 34.894942,
+		"lng": -118.913269,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1940,
+		"team_affiliations": [
+			"Justice League of America",
+			"Green Lantern Corps"
+		],
+		"abilities": [
+			"Animation",
+			"Astral Projection",
+			"Attractive Male",
+			"Blast Power",
+			"Energy Absorption",
+			"Energy Based Constructs",
+			"Energy Shield",
+			"Energy-Enhanced Strike",
+			"Flight",
+			"Force Field",
+			"Healing",
+			"Holographic Projection",
+			"Hypnosis",
+			"Invisibility",
+			"Leadership",
+			"Levitation",
+			"Light Projection",
+			"Phasing / Ghost",
+			"Power Item",
+			"Super Speed",
+			"Unarmed Combat",
+			"Willpower-Based Constructs"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 5,
+				"speed": 4,
+				"durability": 5,
+				"energy_projection": 7,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "34,165,99,1",
+				"cmyk": "80,9,82,100",
+				"hsb": "150,79,65",
+				"hex": "#22a563"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Kilowog",
+		"real_name": "",
+		"photo": "kilowog.jpg",
+		"birth_place": "Coast City",
+		"lat": 0,
+		"lng": 0,
+		"status": "Deceased",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1986,
+		"team_affiliations": [
+			"Justice League of America",
+			"Green Lantern Corps"
+		],
+		"abilities": [
+			"Power ring",
+			"Technological genius",
+			"Superhuman strength",
+			"Superhuman endurance"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "34,165,99,1",
+				"cmyk": "80,9,82,100",
+				"hsb": "150,79,65",
+				"hex": "#22a563"
+			},
+			{
+				"rgba": "200,162,219,1",
+				"cmyk": "20,38,0,0",
+				"hsb": "280,162,219",
+				"hex": "#c8a2db"
+			}
+		]
+	},
+	{
+		"name": "Kyle Rayner",
+		"real_name": "Kyle Rayner",
+		"photo": "kyle_rayner.jpg",
+		"birth_place": "Los Angeles",
+		"lat": 34.052234,
+		"lng": -118.243685,
+		"status": "Deceased",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1994,
+		"team_affiliations": [
+			"Justice League of America",
+			"Green Lantern Corps",
+			"Sinestro Corps",
+			"White Lantern Corps",
+			"Teen Titans",
+			"The Titans"
+		],
+		"abilities": [
+			"Blast Power",
+			"Energy Based Constructs",
+			"Energy Shield",
+			"Energy-Enhanced Strike",
+			"Flight",
+			"Force Field",
+			"Healing",
+			"Holographic Projection",
+			"Intellect",
+			"Invisibility",
+			"Leadership",
+			"Light Projection",
+			"Phasing / Ghost",
+			"Power Item",
+			"Stamina",
+			"Super Speed",
+			"Super Strength",
+			"Swordsmanship",
+			"Unarmed Combat",
+			"Willpower-Based Constructs"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Green Lantern/Guy Gardner",
+		"real_name": "Guy Gardner",
+		"photo": "guy_gardner.jpg",
+		"birth_place": "New York",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1968,
+		"team_affiliations": [
+			"Justice League of America",
+			"Green Lantern Corps",
+			"Justice League International"
+		],
+		"abilities": [
+			"Agility",
+			"Blast Power",
+			"Energy Based Constructs",
+			"Energy Manipulation",
+			"Flight",
+			"Force Field",
+			"Healing",
+			"Intellect",
+			"Leadership",
+			"Phasing / Ghost",
+			"Power Item",
+			"Shape Shifter",
+			"Stamina",
+			"Super Strength",
+			"Unarmed Combat",
+			"Weapon Master",
+			"Willpower-Based Constructs"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "251,45,32,1",
+				"cmyk": "0,94,95,0",
+				"hsb": "4,87,98",
+				"hex": "#fb2d20"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Martian Manhunter",
+		"real_name": "J'onn J'onzz",
+		"photo": "martian_manhunter.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1953,
+		"team_affiliations": [
+			"Justice League of America"
+		],
+		"abilities": [
+			"Agility",
+			"Attractive Male",
+			"Blast Power",
+			"Chameleon",
+			"Density Control",
+			"Elasticity",
+			"Flight",
+			"Healing",
+			"Ice Breath",
+			"Intellect",
+			"Invisibility",
+			"Invulnerability",
+			"Leadership",
+			"Longevity",
+			"Phasing / Ghost",
+			"Shape Shifter",
+			"Size Manipulation",
+			"Stamina",
+			"Stealth",
+			"Super Sight",
+			"Super Speed",
+			"Super Strength",
+			"Telekinesis",
+			"Telepathy",
+			"Unarmed Combat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 6,
+				"speed": 5,
+				"durability": 6,
+				"energy_projection": 6,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "202,209,93,1",
+				"cmyk": "24,6,79,0",
+				"hsb": "64,56,82",
+				"hex": "#cad15d"
+			},
+			{
+				"rgba": "233,64,60,1",
+				"cmyk": "3,90,82,0",
+				"hsb": "1,74,91",
+				"hex": "#e9403c"
+			}
+		]
+	},
+	{
+		"name": "Miss Martian",
+		"real_name": "M'gann M'orzz",
+		"photo": "miss_martian.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "M’gann M’orzz is one of the remaining Martians, the majority of whom are White Martians like herself. As the White Martians have a reputation for their villainy, M’gann sought to be rehabilitated to reflect the possibility that her race can be agents of good and not only of evil.",
+		"first_appearance": 2006,
+		"team_affiliations": [
+			"Teen Titans",
+			"Young Justice"
+		],
+		"abilities": [
+			"Agility",
+			"Blast Power",
+			"Chameleon",
+			"Density Control",
+			"Elasticity",
+			"Flight",
+			"Healing",
+			"Heat Vision",
+			"Invisibility",
+			"Invulnerability",
+			"Marksmanship",
+			"Phasing / Ghost",
+			"Shape Shifter",
+			"Size Manipulation",
+			"Stamina",
+			"Super Hearing",
+			"Super Sight",
+			"Super Speed",
+			"Super Strength",
+			"Telekinesis",
+			"Telepathy",
+			"Unarmed Combat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "202,209,93,1",
+				"cmyk": "24,6,79,0",
+				"hsb": "64,56,82",
+				"hex": "#cad15d"
+			},
+			{
+				"rgba": "233,64,60,1",
+				"cmyk": "3,90,82,0",
+				"hsb": "1,74,91",
+				"hex": "#e9403c"
+			}
+		]
+	},
+	{
+		"name": "Beast Boy",
+		"real_name": "Garfield Mark Logan",
+		"photo": "beast_boy.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1965,
+		"team_affiliations": [
+			"Teen Titans",
+			"Young Justice"
+		],
+		"abilities": [
+			"Adaptive",
+			"Agility",
+			"Chameleon",
+			"Claws",
+			"Feral",
+			"Flight",
+			"Insanely Rich",
+			"Leadership",
+			"Poisonous",
+			"Psionic",
+			"Radar Sense",
+			"Shape Shifter",
+			"Size Manipulation",
+			"Stamina",
+			"Stealth",
+			"Sub-Mariner",
+			"Super Hearing",
+			"Super Sight",
+			"Super Smell",
+			"Super Speed",
+			"Super Strength",
+			"Tracking",
+			"Unarmed Combat",
+			"Wall Clinger"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Green Arrow",
+		"real_name": "Oliver Jonas Queen",
+		"photo": "green_arrow.jpg",
+		"birth_place": "Star City",
+		"lat": 36.888683,
+		"lng": -121.839924,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1941,
+		"team_affiliations": [
+			"Justice League of America",
+			"Green Arrow Inc"
+		],
+		"abilities": [
+			"Agility",
+			"Attractive Male",
+			"Escape Artist",
+			"Gadgets",
+			"Insanely Rich",
+			"Intellect",
+			"Leadership",
+			"Marksmanship",
+			"Stamina",
+			"Stealth",
+			"Swordsmanship",
+			"Tracking",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 5,
+				"strength": 5,
+				"speed": 5,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "64,78,51,1",
+				"cmyk": "68,48,81,44",
+				"hsb": "91,35,31",
+				"hex": "#404e33"
+			},
+			{
+				"rgba": "108,152,67,1",
+				"cmyk": "63,22,97,5",
+				"hsb": "91,56,60",
+				"hex": "#6c9843"
+			}
+		]
+	},
+	{
+		"name": "Red Arrow/Speedy",
+		"real_name": "Roy William Harper, Jr.",
+		"photo": "red_arrow.jpg",
+		"birth_place": "New York",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1941,
+		"team_affiliations": [
+			"Justice League of America",
+			"Green Arrow Inc",
+			"Outsiders",
+			"Suicide Squad",
+			"Teen Titans",
+			"Titans"
+		],
+		"abilities": [
+			"Exceptional athlete",
+			"Expert archer",
+			"Expert marksman",
+			"Highly experienced hand-to-hand combatant",
+			"Occasionally uses trick arrows"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Black Canary",
+		"real_name": "Dinah Lance",
+		"photo": "black_canary.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1947,
+		"team_affiliations": [
+			"Batman Inc",
+			"Birds of Prey",
+			"Justice League of America",
+			"Justice Society of America"
+		],
+		"abilities": [
+			"Agility",
+			"Escape Artist",
+			"Flight",
+			"Gadgets",
+			"Intellect",
+			"Leadership",
+			"Marksmanship",
+			"Power Suit",
+			"Sonic Scream",
+			"Stamina",
+			"Stealth",
+			"Swordsmanship",
+			"Tracking",
+			"Unarmed Combat",
+			"Voice-induced Manipulation",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Red Hood",
+		"real_name": "Jason Peter Todd",
+		"photo": "red_hood.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1983,
+		"team_affiliations": [
+			"Batman Inc",
+			"All Caste",
+			"Challengers From Beyond",
+			"League of Assassins",
+			"Outlaws",
+			"Teen Titans"
+		],
+		"abilities": [
+			"Agility",
+			"Berserker Strength",
+			"Escape Artist",
+			"Gadgets",
+			"Intellect",
+			"Leadership",
+			"Marksmanship",
+			"Power Suit",
+			"Stamina",
+			"Stealth",
+			"Swordsmanship",
+			"Tracking",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 4,
+				"speed": 4,
+				"durability": 3,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "158,40,40,1",
+				"cmyk": "25,95,91,21",
+				"hsb": "0,75,62",
+				"hex": "#9e2828"
+			}
+		]
+	},
+	{
+		"name": "Captain Atom",
+		"real_name": "Nathaniel Christopher Adam",
+		"photo": "captain_atom.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "",
+		"first_appearance": 1960,
+		"team_affiliations": [
+			"Justice League of America"
+		],
+		"abilities": [
+			"Blast Power",
+			"Electronic interaction",
+			"Energy Absorption",
+			"Energy Manipulation",
+			"Energy Shield",
+			"Energy-Enhanced Strike",
+			"Flight",
+			"Force Field",
+			"Genetic Manipulation",
+			"Heat Generation",
+			"Immortal",
+			"Invulnerability",
+			"Radiation",
+			"Stamina",
+			"Super Speed",
+			"Super Strength",
+			"Technopathy",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Hawkgirl",
+		"real_name": "Kendra Munoz-Saunders",
+		"photo": "hawkgirl.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "",
+		"first_appearance": 1940,
+		"team_affiliations": [
+			"Justice League of America"
+		],
+		"abilities": [
+			"Energy-Enhanced Strike",
+			"Flight",
+			"Gadgets",
+			"Healing",
+			"Immortal",
+			"Longevity",
+			"Power Item",
+			"Sonic Scream",
+			"Stamina",
+			"Super Hearing",
+			"Super Sight",
+			"Super Strength",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Red Robin",
+		"real_name": "Timothy Jackson Drake",
+		"photo": "red_robin.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": "",
+		"team_affiliations": [
+			"Batman Inc",
+			"League of Assassins",
+			"Outsiders",
+			"Teen Titans",
+			"The Network",
+			"Titans of Tomorrow",
+			"Young Justice"
+		],
+		"abilities": [
+			"Agility",
+			"Escape Artist",
+			"Gadgets",
+			"Intellect",
+			"Leadership",
+			"Marksmanship",
+			"Power Suit",
+			"Stamina",
+			"Stealth",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "241,162,9,1",
+				"cmyk": "4,40,100,0",
+				"hsb": "40,96,95",
+				"hex": "#f1a209"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Impulse",
+		"real_name": "Bartholomew Henry Allen II",
+		"photo": "impulse.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": "",
+		"team_affiliations": [
+			"Flash Inc",
+			"Speedsters",
+			"Teen Titans",
+			"Titans of Tomorrow",
+			"Young Justice"
+		],
+		"abilities": [
+			"Agility",
+			"Duplication",
+			"Force Field",
+			"Healing",
+			"Holographic Projection",
+			"Intellect",
+			"Leadership",
+			"Phasing / Ghost",
+			"Stamina",
+			"Super Speed",
+			"Time Travel",
+			"Unarmed Combat",
+			"Vibration Wave",
+			"Wind Bursts"
+		],
+		"power_grid": [
+			{
+				"intelligence": 2,
+				"strength": 3,
+				"speed": 7,
+				"durability": 3,
+				"energy_projection": 3,
+				"fighting_skills": 4
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Robin/Batgirl",
+		"real_name": "Stephanie Brown",
+		"photo": "stephanie_brown.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1992,
+		"team_affiliations": [
+			"Batman Inc",
+			"Birds of Prey",
+			"Young Justice"
+		],
+		"abilities": [
+			"Agility",
+			"Escape Artist",
+			"Gadgets",
+			"Healing",
+			"Insanely Rich",
+			"Intellect",
+			"Invisibility",
+			"Leadership",
+			"Marksmanship",
+			"Power Suit",
+			"Stamina",
+			"Stealth",
+			"Swordsmanship",
+			"Tracking",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Robin",
+		"real_name": "Damian Wayne",
+		"photo": "robin_damian.jpg",
+		"birth_place": "",
+		"lat": 0, 
+		"lng": 0,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": "",
+		"team_affiliations": [
+			"Batman Inc"
+		],
+		"abilities": [
+			"Agility",
+			"Escape Artist",
+			"Gadgets",
+			"Intellect",
+			"Marksmanship",
+			"Power Suit",
+			"Stamina",
+			"Stealth",
+			"Swordsmanship",
+			"Tracking",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Batwoman",
+		"real_name": "Katherine Rebecca Kane",
+		"photo": "batwoman.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 2006,
+		"team_affiliations": [
+			"Batman Inc",
+			"Birds of Prey",
+			"The Network"
+		],
+		"abilities": [
+			"Agility",
+			"Escape Artist",
+			"Gadgets",
+			"Insanely Rich",
+			"Intellect",
+			"Marksmanship",
+			"Stamina",
+			"Stealth",
+			"Tracking",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 4,
+				"strength": 5,
+				"speed": 5,
+				"durability": 4,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "255,255,255,1",
+				"cmyk": "0,0,0,0",
+				"hsb": "0,0,100",
+				"hex": "#ffffff"
+			}
+		]
+	},
+	{
+		"name": "Joker",
+		"real_name": "",
+		"photo": "joker.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1940,
+		"team_affiliations": [
+			"Batman Inc",
+			"Injustice Gang",
+			"Injustice League",
+			"Legion of Doom",
+			"The Society",
+			"Club of Villains"
+		],
+		"abilities": [
+			"Agility",
+			"Escape Artist",
+			"Gadgets",
+			"Genius-level intelligence",
+			"Leadership",
+			"Marksmanship",
+			"Expert in chemistry and engineering",
+			"Stamina",
+			"Stealth",
+			"Unarmed Combat",
+			"Weapon Master"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "34,165,99,1",
+				"cmyk": "80,9,82,100",
+				"hsb": "150,79,65",
+				"hex": "#22a563"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Deathstroke",
+		"real_name": "Slade Wilson",
+		"photo": "deathstroke.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Deathstroke is a metahuman mercenary known to take on seemingly impossible jobs and the toughest targets as a personal challenge. In addition to enchanced strength, speed and reflexes, Deathstroke possesses heightened brain functions that make him a master strategist and tactical genius.",
+		"first_appearance": 1980,
+		"team_affiliations": [
+			"Injustice League",
+			"Secret Society of Super Villains",
+			"Titans East",
+			"H.I.V.E.",
+			"Checkmate",
+			"Team 7"
+		],
+		"abilities": [
+			"Master of various weapons",
+			"Enhanced physical and mental attributes",
+			"Regenerative healing factor",
+			"Expert martial artist, hand-to-hand combat, swordsman and marksman",
+			"Master tactician and strategist",
+			"Access to hi-tech equipment",
+			"Skillful manipulator, controller and deciever",
+			"Photographic reflexes and agility",
+			"Mastery in bojutsu and jojutsu",
+			"Multilingualism"
+		],
+		"power_grid": [
+			{
+				"intelligence": 6,
+				"strength": 6,
+				"speed": 5,
+				"durability": 5,
+				"energy_projection": 1,
+				"fighting_skills": 6
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Lex Luthor",
+		"real_name": "",
+		"photo": "lex_luthor.jpg",
+		"birth_place": "Metropolis",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Lex Luthor, Superman's arch-nemesis, is one of the most gifted beings alive, whose hatred of 'interfering aliens' pushes him down the path of a sociopath. Known for his 'ends justifies the means' approach to life, his single-minded and often brutal focus puts him at odds with The Man of Steel. Lex Luthor is arguably DC Comic's most iconic villain.",
+		"first_appearance": 1940,
+		"team_affiliations": [
+			"Superman Inc",
+			"Injustice League",
+			"Legion of Doom",
+			"Secret Six",
+			"Intergang"
+		],
+		"abilities": [
+			"Blast Power",
+			"Flight",
+			"Gadgets",
+			"Intellect",
+			"Leadership",
+			"Power Item",
+			"Power Suit",
+			"Probability Manipulation",
+			"Radiation",
+			"Stamina",
+			"Time Travel",
+			"Unarmed Combat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 7,
+				"strength": 4,
+				"speed": 3,
+				"durability": 3,
+				"energy_projection": 1,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Sinestro",
+		"real_name": "",
+		"photo": "sinestro.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1961,
+		"team_affiliations": [
+			"Green Lantern Corps",
+			"Injustice League",
+			"Legion of Doom",
+		"Sinestro Corps"
+		],
+		"abilities": [
+			"Blast Power",
+			"Energy Absorption",
+			"Energy Based Constructs",
+			"Energy-Enhanced Strike",
+			"Flight",
+			"Force Field",
+			"Healing",
+			"Holographic Projection",
+			"Intellect",
+			"Leadership",
+			"Light Projection",
+			"Phasing / Ghost",
+			"Power Item",
+			"Stamina",
+			"Super Speed",
+			"Super Strength",
+			"Unarmed Combat",
+			"Willpower-Based Constructs"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "254,253,51,1",
+				"cmyk": "6,0,88,0",
+				"hsb": "60,80,99",
+				"hex": "#fefd33"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Brainiac",
+		"real_name": "Vril Dox",
+		"photo": "brainiac.jpg",
+		"birth_place": "",
+		"lat": 0,
+		"lng": 0,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1958,
+		"team_affiliations": [
+			"Legion of Doom"
+		],
+		"abilities": [
+			"Psychokinesis",
+			"Superhuman Strength",
+			"Telepathy",
+			"Telekinesis",
+			"Enhanced Intellect",
+			"Computer Operation"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Solomon Grundy",
+		"real_name": "Cyrus Gold",
+		"photo": "solomon_grundy.jpg",
+		"birth_place": "Slaughter Swamp",
+		"lat": 40.714353,
+		"lng": -74.005973,
+		"status": "",
+		"bio": "Solomon Grundy is a Zombie supervillain. He frequently dies and resurrects in new incarnations, each of varying levels of strength and intelligence. Although primarily evil, some of his incarnations have shown the capacity for heroism.",
+		"first_appearance": 1944,
+		"team_affiliations": [
+			"Batman Inc",
+			"Injustice League",
+			"Injustice Society",
+			"Legion of Doom"
+		],
+		"abilities": [
+			"Superhuman strength, and stamina",
+			"Healing Factor",
+			"Self-Resurrection",
+			"Invulnerability",
+			"Immortality"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 6,
+				"speed": 1,
+				"durability": 6,
+				"energy_projection": 1,
+				"fighting_skills": 3
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	},
+	{
+		"name": "Poison Ivy",
+		"real_name": "Pamela Lillian Isley",
+		"photo": "poison_ivy.jpg",
+		"birth_place": "Gotham City",
+		"lat": 40.377021,
+		"lng": -74.134884,
+		"status": "",
+		"bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor mi non dolor aliquam, in dictum elit euismod. Praesent at risus in turpis malesuada dictum.",
+		"first_appearance": 1966,
+		"team_affiliations": [
+			"Batman Inc",
+			"Injustice League",
+			"Injustice Society",
+			"Legion of Doom"
+		],
+		"abilities": [
+			"Adaptive",
+			"Agility",
+			"Chemical Absorbtion",
+			"Chemical Secretion",
+			"Death Touch",
+			"Emotion Control",
+			"Genetic Manipulation",
+			"Healing",
+			"Hypnosis",
+			"Intellect",
+			"Mesmerize",
+			"Pheromone Control",
+			"Plant Control",
+			"Poisonous",
+			"Stamina",
+			"Tracking",
+			"Unarmed Combat"
+		],
+		"power_grid": [
+			{
+				"intelligence": 1,
+				"strength": 1,
+				"speed": 1,
+				"durability": 1,
+				"energy_projection": 1,
+				"fighting_skills": 1
+			}
+		],
+		"colors": [
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			},
+			{
+				"rgba": "0,0,0,1",
+				"cmyk": "100,100,100,100",
+				"hsb": "0,0,76",
+				"hex": "#000000"
+			}
+		]
+	}
+]

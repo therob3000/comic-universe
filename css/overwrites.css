@@ -1,0 +1,143 @@
+body {
+	padding-top: 50px;
+	color: #666;
+}
+
+.starter-template {
+	padding: 40px 15px;
+}
+
+pre {
+	font-size: 11px;
+}
+
+.treatment{
+	margin-bottom:10px;
+	border:1px solid rgba(255,255,255,.25);
+	box-shadow:0px 0px 8px rgba(0,0,0,.6)
+}
+
+.sorter {
+	text-align: center;
+}
+
+table, th, td {
+	padding: 2px;
+	border: none !important;
+}
+
+h3.team_title  {
+	color: #fff;
+	text-transform: capitalize;
+}
+
+.team_text {
+	padding: 5px;
+	background: transparent;
+}
+
+.team_text h5 {
+	margin: 0;
+}
+
+.team_text ul li {
+	font-size: 12px
+}
+
+.character {
+	text-align: center;
+}
+
+.character img {
+	max-width: 75px;
+	cursor: pointer;
+	border: 1px solid rgba(0,0,0,.75);
+}
+
+.character .bio {
+	text-align: left
+}
+
+.character_bio {
+	text-align: left;
+	background: transparent;
+}
+
+.character_bio img {
+	width: 100%;
+}
+
+.character_bio h4 {
+	color: #000;
+	line-height: 16px
+}
+
+.character_bio h5 {
+	margin: 5px 0;
+	color: #000;
+	line-height: 16px
+}
+
+.character_bio img {
+	margin-bottom: 3px;
+}
+
+.character_bio p {
+	margin-bottom: 2px;
+	font-size: 12px;
+	color: #000;
+	line-height: 16px
+}
+
+.character_bio .birthplace {
+	margin: 10px 0 2px 0;
+	padding-bottom: 2px;
+	border-bottom: 1px solid rgba(0,0,0,.25);
+	font-size: 14px;
+}
+
+.character_bio .appearance {
+	font-size: 12px;
+	font-style: italic;
+	text-align: right;
+}
+
+
+.tooltip_text {
+	font: 12px;
+	font-weight: bold;
+	line-height: 14px;
+}
+
+.tooltip_text p {
+	height: 35px;
+	margin: 0;
+	color: #000;
+	font: 12px sans-serif;
+	font-weight: bold;
+	line-height: 14px;
+}
+
+path {
+	stroke: rgba(0,0,0,.8);
+	stroke-width: 0.25px;
+	fill: rgba(0,0,0,.15);
+}
+
+/* HUD styles */
+.hud_heading {
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.photo_heading {
+	font-size: 14px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.stats_group {
+	height: 250px;
+	background: rgba(255,255,255,.3);
+}

@@ -146,7 +146,7 @@ var Map = new function(){
 				'fill': defaults.map.fill
 			})
 
-		d3.json('../../../data/world-110m.json', function(error, topology){
+		d3.json('data/world-110m.json', function(error, topology){
 			map_lines = theMap.append('g')
 				.attr({
 					'class': 'map_lines'

@@ -12,15 +12,10 @@ var membersFiltered,
 	members = [],
 	labels = ['Intelligence', 'Strength', 'Speed', 'Durability', 'Energy Projection', 'Fighting Skills']
 
-// var theUniverse = 'universe_dc',
-// 	theTeam = 'justice_league_of_america'
-
 var theUniverse = 'universe_marvel',
 	theTeam = 'x_men'
 
-var projection,
-	path,
-	map_lines,
+var map_lines,
 	centered,
 	timeout
 
@@ -51,6 +46,15 @@ var defaults = {
 		duration: 500
 	}
 }
+
+var projection = d3.geo.mercator()
+	.scale((width + 1) / 2 / Math.PI)
+	.translate([ width / 2, height / 2 ])
+	.precision(.1)
+	// .rotate([ 82 + 30 / 60, -39 - 40 / 60 ])
+
+var path = d3.geo.path()
+	.projection(projection)
 
 function Member(c){
 	this.name = isDefined(c.name)
@@ -100,11 +104,6 @@ var SVG = new function(){
 				'height': 150,
 				'fill': 'rgba(255,255,255,.8)'
 			})
-			
-		photo = d3.select('#photo').append('div')
-			.attr({
-				'class': 'photo_group'
-			})
 
 		stats = d3.select('#stats').append('div')
 			.attr({
@@ -126,13 +125,17 @@ var SVG = new function(){
 
 var Map = new function(){
 	this.set = function(){
-		projection = d3.geo.mercator()
-			.center(defaults.map.center)
-			.scale(defaults.map.scale)
-			.rotate(defaults.map.rotate)
+		// projection
+		// 	.scale(1)
+		// 	.translate([ 0, 0 ])
 
-		path = d3.geo.path()
-			.projection(projection)
+		// var bounds = path.bounds(counties),
+		// 	scale = .95 / Math.max((bounds[1][0] - bounds[0][0]) / width, (bounds[1][1] - bounds[0][1]) / height),
+		// 	translate = [(width - scale * (bounds[1][0] + bounds[0][0])) / 2, (height - scale * (bounds[1][1] + bounds[0][1])) / 2]
+
+		// projection
+		// 	.scale(scale)
+		// 	.translate(translate)
 
 		theMap = vis_group.append('g')
 			.attr({
@@ -381,15 +384,6 @@ var Marker = new function(){
 
 var PowerGrid = new function(){
 	this.set = function(){
-
-		photo.append('image')
-			.attr({
-				'width': 300,
-				'height': 200,
-				'src': 'images/universe_marvel/professorx.jpg'	
-			})
-
-
 
 		hud_vis_group.append('text')
 			.attr({
